@@ -1,11 +1,16 @@
 _repo: A-History-of-Magic-and-Experimental-Science-Vol-II-During-the-First-Thirteen-Centuries-of-Our__67330
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67330-h/images/cover.jpg
 creator:
   author:
     agent_name: Thorndike, Lynn
     gutenberg_agent_id: '54214'
     url: http://www.gutenberg.org/2009/agents/54214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67330#A-History-of-Magic-and-Experimental-Science-Vol-II-During-the-First-Thirteen-Centuries-of-Our_
 gutenberg_issued: '2022-02-05'
 identifiers:
   gutenberg: '67330'
